@@ -34,7 +34,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)]([YOUR_TWITTER_URL](https://x.com/ChinakshuM12904))  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](chinakshu2005@gmail.com)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=[github.com/Chinakshu](https://github.com/Chinakshu)&color=green&style=for-the-badge)
+# ![Profile Views](https://komarev.com/ghpvc/?username=Chinakshu&color=blue)
+
 
 
 ---
